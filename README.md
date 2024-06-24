@@ -7,7 +7,7 @@
 下载项目
 
 ```bash
-$ git clone https://github.com/purelolly/XLM-for-linux
+$ git clone https://github.com/Xiaomoli01/XLM-for-linux
 ```
 
 进入到项目目录，编辑`.env`文件，修改变量`CLASH_URL`的值。
